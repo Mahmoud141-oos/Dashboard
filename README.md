@@ -23,8 +23,6 @@ A modern and responsive dashboard interface displaying key statistics such as us
 
 [🌍 Visit the Live Dashboard](https://alaqili-dashboard.netlify.app/)
 
-> Replace `PUT_YOUR_LINK_HERE` with your actual deployed website link (e.g., Netlify, Vercel, GitHub Pages).
-
 ---
 
 ## 🛠️ Technologies Used
